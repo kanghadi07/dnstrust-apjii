@@ -1,0 +1,24 @@
+$TTL 3600 
+@ 	IN 	SOA cosmos.apjii.or.id. hostmaster.apjii.or.id. (
+	2021080601
+        3600;
+        300;
+        86400;
+        60);
+        IN      NS      cosmos.apjii.or.id. 
+
+dnstrust IN CNAME dnstrust.apjii.or.id. 
+ns IN A 127.0.0.1 
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidns.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata00.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata01.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata02.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata03.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata04.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata05.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata06.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata07.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata08.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata09.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata10.zone;
+$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata11.zone;
