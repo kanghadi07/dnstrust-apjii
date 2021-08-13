@@ -1,0 +1,2 @@
+# dnstrust
+ dns bersih
