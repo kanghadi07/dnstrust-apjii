@@ -1,6 +1,6 @@
 ## DnsTrust Database Bind9
 
-![Kominfo](/kominfo_.png) ![Aduan Content](/aduan_content.png) ![Bind9](/Bind_9_ISC.png)
+![Kominfo](/asset/kominfo_.png) ![Aduan Content](/asset/aduan_content.png) ![Bind9](/asset/Bind_9_ISC.png)
 
 # Sebagai Bentuk Dukungan Terhadap Program "Internet Sehat" Milik Pemerintah Negara Kesatuan Republik Indonesia
 
