@@ -15,3 +15,5 @@ $INCLUDE /etc/bind/zones/ext/regional-rpz.zones;
 $INCLUDE /etc/bind/zones/ext/unified-rpz.zones;
 $INCLUDE /etc/bind/zones/ext/extreem-rpz.zones;
 $INCLUDE /etc/bind/zones/ext/porn-lite-rpz.zones;
+$INCLUDE /etc/bind/zones/ext/Ultimate-Hosts-Blacklist.rpz.zones;
+
