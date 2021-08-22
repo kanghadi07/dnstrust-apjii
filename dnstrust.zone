@@ -9,16 +9,17 @@ $TTL 3600
 
 dnstrust IN CNAME dnstrust.apjii.or.id. 
 ns IN A 127.0.0.1 
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidns.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata00.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata01.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata02.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata03.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata04.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata05.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata06.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata07.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata08.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata09.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata10.zone;
-$INCLUDE /usr/local/etc/namedb/dnstrust/apjiidata11.zone;
+
+$INCLUDE /etc/bind/zones/dnstrust/apjiidns.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata00.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata01.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata02.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata03.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata04.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata05.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata06.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata07.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata08.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata09.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata10.zone;
+$INCLUDE /etc/bind/zones/dnstrust/apjiidata11.zone;
