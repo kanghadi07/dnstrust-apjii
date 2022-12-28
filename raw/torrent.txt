@@ -539,7 +539,6 @@ digitalhive.org
 digitalpanic.org
 dij-entertainments.co.uk
 dimeadozen.org
-directory.fsf.org
 dirtytorrents.com
 divx38.boardu.org
 divxatope.com
@@ -4191,6 +4190,7 @@ bt.plc.mx
 bt.pusacg.org
 bt.zlofenix.org
 bt1.archive.org
+bt1.letpo.com
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
@@ -4618,6 +4618,7 @@ tracker.madassnews.net
 tracker.merded.xyz
 tracker.minglong.org
 tracker.mininova.org
+tracker.mlsub.net
 tracker.moeblog.cn
 tracker.moeking.eu.org
 tracker.moeking.me
@@ -4688,6 +4689,7 @@ tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
 tracker.vectahosting.eu
+tracker.vraphim.com
 tracker.vrpnet.org
 tracker.vulnix.sh
 tracker.wellknownclub.net
@@ -4722,6 +4724,7 @@ tracker4.itzmx.com
 tracker6.dler.org
 tracker6.lelux.fi
 trackerb.jonaslsa.com
+trackers.mlsub.net
 trackme.theom.nz
 trakx.herokuapp.com
 transkaroo.joustasie.net
