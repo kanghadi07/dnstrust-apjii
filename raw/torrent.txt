@@ -1746,7 +1746,6 @@ torrentfactory.com
 torrentfinder.ru
 torrentfr.org
 torrentfrancais.com
-torrentfreak.com
 torrentfreakz.org
 torrentfriend.net
 torrentfunk.unblocked.llc
@@ -4333,6 +4332,7 @@ milliontorrent.pl
 mirror.aptus.co.tz
 mixfiend.com
 moeweb.pw
+montreal.nyap2p.com
 moonburrow.club
 movies.zsw.ca
 mserver.link
@@ -4391,6 +4391,7 @@ prestige.minimafia.nl
 private.anonseed.com
 proaudiotorrents.org
 psyco.fr
+public-tracker.ml
 public-tracker.zooki.xyz
 public.popcorn-tracker.org
 public.publictracker.xyz
@@ -4649,6 +4650,7 @@ tracker.pomf.se
 tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
+tracker.qu.ax
 tracker.quix.cf
 tracker.rp-api.tech
 tracker.rsplwe.com
