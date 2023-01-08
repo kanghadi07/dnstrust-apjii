@@ -4607,6 +4607,7 @@ tracker.kuroy.me
 tracker.leech.ie
 tracker.leechers-paradise.org
 tracker.lelux.fi
+tracker.letpo.com
 tracker.lilithraws.cf
 tracker.lilithraws.org
 tracker.loadbt.com
@@ -4687,6 +4688,7 @@ tracker.torrentyorg.pl
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
+tracker.tvgc.win
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
@@ -4868,7 +4870,6 @@ abetterplace2b.com
 abetterplace2b.org
 abtorrents.com
 academic-p2p.appspot.com
-academictorrents.com
 acehd.net
 acetorrents.net
 acg.rip
@@ -5525,7 +5526,6 @@ digitalmusicians.ca
 digitalpanic.org
 dij-entertainments.co.uk
 dimeadozen.org
-directory.fsf.org
 dirtytorrents.com
 divx38.boardu.org
 divxatope.com
@@ -5770,7 +5770,6 @@ forum.wgbh.org
 forums.bootleg.org.uk
 forums.darkside-raws.net
 forums.mvgroup.org
-fossbytes.com
 fost.club
 fost.ws
 fourfriends.biz
@@ -6418,7 +6417,6 @@ novaset.net
 noviteti.com
 nowarez.se
 nowfilms.ru
-npr.org
 ntorrent.yoyo.pl
 ntorrents.net
 ntrace.in
@@ -7655,7 +7653,6 @@ tracker.nyaa.uk
 tracker.nyap2p.com
 tracker.open-internet.nl
 tracker.openbittorrent.com
-tracker.opentrackr.org
 tracker.openwebtorrent.com
 tracker.optus.nu
 tracker.packetstorm.ch
